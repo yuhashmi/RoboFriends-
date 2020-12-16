@@ -1,5 +1,6 @@
 {
   "name": "project-robofriends",
+  "homepage": "https://yuhashmi.github.io/RoboFriends-",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
